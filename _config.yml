@@ -1,14 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: gipert's sheet music
+#email: luigi.pertoldi@hotmail.it
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  I really enjoy transcribing a piece of good music, when it comes.
+  Here's my collection of sheet music, all produced by myself.
+baseurl: "/sheet-music" # the subpath of your site, e.g. /blog
+url: "https://gipert.github.io" # the base hostname & protocol for your site
+github_username:  gipert
 
 # Build settings
 markdown: kramdown
