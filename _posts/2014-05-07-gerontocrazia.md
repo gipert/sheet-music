@@ -13,18 +13,18 @@ anni Duemila.
 
 Il disco *Maledetti (Mauditis)*, uscito nel 1976, riporta nelle note di copertina:
 
-> *Progetto-concerto di fanta-sociopolitica: la società futuribile è spaccata in*
-> *verticale e divisa in corporazioni. Un plasma liquido è la coscienza del*
-> *mondo, custodita in un computer di una banca. Per un guasto si verifica la*
-> *dispersione progressiva del liquido: totale perdita della coscienza umana.*
+> Progetto-concerto di fanta-sociopolitica: la società futuribile è spaccata in
+> verticale e divisa in corporazioni. Un plasma liquido è la coscienza del
+> mondo, custodita in un computer di una banca. Per un guasto si verifica la
+> dispersione progressiva del liquido: totale perdita della coscienza umana.
 >
-> *Possibili ipotesi evolutive:*
-> 1. *Potere agli anziani, come depositari della memoria del passato che
->    esclude e respinge la problematica del contingente;*
-> 1. *Potere alle donne, come fornitrici di energia e contributi radicali
->    nuovi, in antitesi alla loro repressione storica;*
-> 1. *Potere ai bambini, come garanzia di libertà e di reinventare la storia
->    con la forza della fantasia.*
+> Possibili ipotesi evolutive:
+> 1. Potere agli anziani, come depositari della memoria del passato che
+>    esclude e respinge la problematica del contingente;
+> 1. Potere alle donne, come fornitrici di energia e contributi radicali
+>    nuovi, in antitesi alla loro repressione storica;
+> 1. Potere ai bambini, come garanzia di libertà e di reinventare la storia
+>    con la forza della fantasia.
 
 Il tema del primo punto è discusso in *Gerontocrazia, *introdotta da un lungo
 recitativo di Stratos che rappresenta il *"Processo di narcotizzazione

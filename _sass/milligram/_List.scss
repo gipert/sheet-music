@@ -15,7 +15,7 @@ ol,
 ul {
     list-style: none;
     margin-top: 0;
-    padding-left: 0;
+    padding-left: 1em;
 
     dl,
     ol,
@@ -27,8 +27,11 @@ ul {
 
 ol {
     list-style: decimal inside;
+    list-style-position: inside;
+    text-indent: -1em;
 }
 
 ul {
     list-style: circle inside;
+    list-style-position: inside;
 }
