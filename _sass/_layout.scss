@@ -23,8 +23,26 @@
     padding: 1rem;
 }
 
+.post-artist {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 500;
+    letter-spacing: 0.05rem;
+}
+
 .post-title {
     display: block;
+}
+
+.post-title-preview {
+    display: block;
+    font-size: 1.2rem;
+    letter-spacing: 0rem;
+    margin-bottom: 1rem;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 /**
@@ -56,11 +74,10 @@
  * Misc
  */
 .preview-panel {
-    padding: 1rem;
     box-sizing: border-box;
     border: 1px solid $color-bkg;
-    
+
     &:hover {
-        border: 1px solid $grey-color-light;
+        border: 1px transparent $grey-color-light;
     }
 }
