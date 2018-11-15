@@ -11,3 +11,11 @@ github_username:  gipert
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-129302942-1
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking

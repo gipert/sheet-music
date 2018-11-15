@@ -27,8 +27,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-relative-links (0.5.3)
-      jekyll (~> 3.3)
+    jekyll-analytics (0.1.11)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
@@ -62,7 +61,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-relative-links
+  jekyll-analytics
   jekyll-seo-tag
 
 BUNDLED WITH
