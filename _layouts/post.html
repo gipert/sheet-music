@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="post">
   <div class="post-nav">
-    {% if page.next.url %}
-      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a>
+    {% if page.next.next.url %}
+      <a class="nav-item" href="{{ page.next.next.url | prepend: site.baseurl }}">⟻ prev</a>
     {% endif %}
-    {% if page.previous.url %}
-      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">Next &raquo;</a>
+    {% if page.previous.previous.url %}
+      <a class="nav-item" href="{{ page.previous.previous.url | prepend: site.baseurl }}">next ⟼</a>
     {% endif %}
   </div>
 

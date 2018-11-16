@@ -1,7 +1,7 @@
 ---
-layout: page
-title: about
-permalink: /about/
+layout:    page
+title:     about
+permalink: /it/about/
 ---
 
 La musica *senza aggettivi*, o *seria*<sup><a href="#fn1"

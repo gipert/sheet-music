@@ -8,7 +8,7 @@ gumid:   kzeK
 ---
 
 Prima traccia dell'*Arbeit Macht Frei* di cui ho già trascritto [qualcosa]({{
-site.baseurl }}{% link _posts/2014-05-07-arbeit-macht-frei.md %}) in passato,
+site.baseurl }}{% link it/_posts/2014-05-07-arbeit-macht-frei.md %}) in passato,
 ancor più politicamente loquace e direttamente scaturita dagli eventi del
 Settembre del '72, durante le olimpiadi estive a München. La struttura del
 pezzo mostra precisamente lo stile compositivo del periodo passato in Cramps: i

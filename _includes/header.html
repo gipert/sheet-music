@@ -1,11 +1,25 @@
+{% assign trunc_url = page.url | split: '/' | shift | shift | join: '/' %}
+{% assign lang = page.url | split: '/' | shift | first %}
+
 <header class="site-header">
   <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/header-gentle-giant.jpg"></a>
-    
-  <nav class="navbar">
-    <ul>
-      <li class="nav-item"><a href="{{ site.baseurl }}/">home</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/about/">about</a></li>
-    </ul>
-  </nav>
-
+  <ul class="navbar">
+    {% assign find_url = lang | append: '/' | prepend: '/' %}
+    {% if page.url == find_url %}
+        <li class="nav-item"><a class="active" href="{{ site.baseurl }}/{{ lang }}/">home</a></li>
+    {% else %}
+        <li class="nav-item"><a href="{{ site.baseurl }}/{{ lang }}/">home</a></li>
+    {% endif %}
+    {% assign find_url = find_url | append: 'about/' %}
+    {% if page.url == find_url %}
+        <li class="nav-item"><a class="active" href="{{ site.baseurl }}/{{ lang }}/about/">about</a></li>
+    {% else %}
+        <li class="nav-item"><a href="{{ site.baseurl }}/{{ lang }}/about/">about</a></li>
+    {% endif %}
+    {% if lang == "it" %}
+        <li class="nav-item">[<a class="active" href="{{ site.baseurl }}/it/{{ trunc_url }}">it</a>|<a href="{{ site.baseurl }}/en/{{ trunc_url }}">en</a>]</li>
+    {% else %}
+        <li class="nav-item">[<a href="{{ site.baseurl }}/it/{{ trunc_url }}">it</a>|<a class="active" href="{{ site.baseurl }}/en/{{ trunc_url }}">en</a>]</li>
+    {% endif %}
+  </ul>
 </header>

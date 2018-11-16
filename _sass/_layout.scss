@@ -1,7 +1,7 @@
 /**
  * Site header
  */
- .wrapper .container {
+.wrapper .container {
     max-width: 80rem;
 }
 
@@ -16,6 +16,10 @@
 .nav-item {
     display: inline-block;
     padding: 1rem;
+}
+
+.active {
+    text-decoration: underline;
 }
 
 .post-nav {
