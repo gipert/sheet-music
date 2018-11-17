@@ -1,4 +1,7 @@
 {% assign lang = page.url | split: '/' | shift | first %}
+{% unless lang %}
+    {% assign lang = "en" %}
+{% endunless %}
 {% for post in site.categories.[lang] %}
     {% cycle 'add row' : '<div class="row">', '', '', '' %}
         <div class="column column-25">

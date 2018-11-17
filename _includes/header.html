@@ -1,5 +1,8 @@
 {% assign trunc_url = page.url | split: '/' | shift | shift | join: '/' %}
 {% assign lang = page.url | split: '/' | shift | first %}
+{% unless lang %}
+    {% assign lang = "en" %}
+{% endunless %}
 
 <header class="site-header">
   <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/header-gentle-giant.jpg"></a>
