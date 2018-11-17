@@ -15,10 +15,4 @@ github_username: gipert
 markdown: kramdown
 permalink: pretty
 
-plugins:
-  - jekyll-analytics
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-129302942-1
-    anonymizeIp: false
+google_analytics: UA-129302942-1
