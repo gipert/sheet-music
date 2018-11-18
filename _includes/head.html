@@ -7,7 +7,12 @@
 
     {% include styles.html %}
 
-    {% seo %}
+    {% if page.url == '/' or page.url == '/en/' or page.url == '/it/' %}
+        <title>home | {{ site.title }}</title>
+        {% seo title=false %}
+    {% else %}
+        {% seo %}
+    {% endif %}
 
     {% include meta.html %}
 
