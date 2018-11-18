@@ -9,7 +9,7 @@ description:
       Here's my collection of sheet music, all self-produced.
 baseurl: "/sheet-music"
 url: "https://gipert.github.io"
-github_username: gipert
+github_username: gipert/sheet-music
 
 # Build settings
 markdown: kramdown

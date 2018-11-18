@@ -43,6 +43,9 @@
     </div>
 
     {% assign lang = page.url | split: '/' | shift | first %}
+    {% unless lang %}
+        {% assign lang = "en" %}
+    {% endunless %}
     <div class="column">
         <p>{{ site.description[lang] }}</p>
     </div>
