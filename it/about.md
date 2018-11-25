@@ -50,9 +50,9 @@ di una diffusione indiscriminata di materiale sul web non mi garba molto. La
 piattaforma offre anche la possibilità di donare un cifra arbitrariamente più
 alta, se qualcuno si sente di contribuire maggiormente al mio lavoro!
 
-Ovviamente sono ben accetti commenti, critiche o suggerimenti. Se qualcuno ha
-proposte di trascrizione o magari un lavoro da commissionare mi contatti pure,
-discutiamone!
+Ovviamente sono ben accetti commenti, critiche o suggerimenti. Se qualcuno
+trovasse degli errori nelle partiture, avesse proposte di trascrizione o magari
+un lavoro da commissionare mi contatti pure, discutiamone!
 
 LP
 
