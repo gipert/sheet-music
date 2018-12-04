@@ -16,3 +16,6 @@ markdown: kramdown
 permalink: pretty
 
 google_analytics: UA-129302942-1
+
+plugins:
+  - jekyll-sitemap
