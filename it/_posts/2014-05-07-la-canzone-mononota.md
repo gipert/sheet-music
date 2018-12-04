@@ -13,3 +13,5 @@ insieme ricercato e orecchiabile. L'avete sentito sicuramente.
 Questo giro ho deciso di scrivere un arrangiamento per pianoforte che
 rispecchia molto le linee melodiche strumentali del pezzo, la sinistra poi
 segue molto il giro di basso originale. Have fun.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

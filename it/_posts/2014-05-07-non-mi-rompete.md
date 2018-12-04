@@ -14,3 +14,5 @@ tema l'evasione onirica dalla società.
 Ho deciso di trasformare la trascrizione in un arrangiamento per pianoforte
 (molto semplice peraltro, come deve essere), da suonare con molta
 delicatezza.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

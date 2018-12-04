@@ -24,3 +24,5 @@ melodia che nella ritmica, ben rintracciabili nel tema sicuramente di mano
 Fariselliana.
 
 Partitura molto asciutta, come il pezzo.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

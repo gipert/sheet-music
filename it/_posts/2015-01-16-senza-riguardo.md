@@ -21,3 +21,5 @@ e i suoi testi risaltano forse più del solito dentro a questa nuova cornice e
 nella musica si ritrovano, condensati e semplificati, tutti gli stilemi
 dell'epoca passata. Non mancano anche accenni a qualcosa di più musicalmente
 articolato.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

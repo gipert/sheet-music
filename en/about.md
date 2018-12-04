@@ -72,4 +72,4 @@ LP
     </li>
 </ol>
 
-[//]: # vim: tw=79
+<!-- vim: set tw=79 spell spelllang=en: -->

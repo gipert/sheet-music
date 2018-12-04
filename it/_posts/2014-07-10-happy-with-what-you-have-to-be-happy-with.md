@@ -31,3 +31,5 @@ opposto. Sullo sfondo le due chitarre si rincorrono con ritmiche leggermente
 diverse in un gioco (perverso) di sfasamento e unisono.
 
 Sulla partitura trovate tutto tranne, come sempre, la batteria.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

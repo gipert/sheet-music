@@ -21,3 +21,5 @@ mi metto a contare e scopro che tutta la sezione strumentale del pezzo è in
 
 Ho trascritto la parte di pianoforte, di basso e la linea melodica generale:
 tutto quello che serve.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

@@ -23,3 +23,5 @@ pezzo ha, al solito del Banco, una struttura armonica e melodica veramente
 degna di nota, di impostazione classica e molto ben curata, che culmina nel
 verso finale con la voce di Francesco (morto inaspettatamente pochi mesi fa) su
 una linea di basso molto particolare.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

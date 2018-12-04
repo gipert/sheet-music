@@ -17,3 +17,5 @@ rispondono con temi prestabiliti.
 Vista la tipologia di brano, quindi, mi sono limitato a trascrivere le varie
 linee di accompagnamento assieme ai motivi melodici rilevanti (compreso
 l'intricato tema all'unisono verso la fine del pezzo).
+
+<!-- vim: set tw=79 spell spelllang=it: -->

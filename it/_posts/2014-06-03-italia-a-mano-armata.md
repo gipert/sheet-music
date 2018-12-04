@@ -23,3 +23,5 @@ esce poco dopo la fondazione come seconda traccia del primo album, grezza e
 sporca in modo ricercato, con distorsioni di chitarra molto *fuzz* e *grooves*
 di batteria rubati al *funk*. Il brano dura poco e la sua struttura è molto
 chiara,  molto divertente da suonare, vi propongo una band score completa.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

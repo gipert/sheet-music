@@ -23,3 +23,5 @@ Penso di aver prodotto un risultato sufficientemente completo, ho trascritto le
 parti di basso e tastiere (con gli accordi), mi sembrava invece inutile
 trascrivere il solo di Shafir e Rudess, non sarete mica così cazzoni da volerlo
 suonare uguale no?
+
+<!-- vim: set tw=79 spell spelllang=it: -->

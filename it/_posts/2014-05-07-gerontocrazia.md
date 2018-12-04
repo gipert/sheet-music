@@ -35,3 +35,5 @@ degni di nota gli assoli di Fariselli nella seconda parte prima della ripresa
 del tema: sono come dei pensierini incastrati in un fa minore reso cangiante
 dal pedale che varia periodicamente. Spero che si capisca l'organizzazione
 delle sezioni, è la più coerente che sono riuscito a elaborare.
+
+<!-- vim: set tw=79 spell spelllang=it: -->

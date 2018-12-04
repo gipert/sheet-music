@@ -8,3 +8,5 @@ gumid:   PrePT
 ---
 
 Coming soon...
+
+<!-- vim: set tw=79 spell spelllang=en: -->
