@@ -13,15 +13,16 @@ impianto stereo o un paio di cuffie—diciamocelo, anche la sala da concerto è 
 luogo di solitudine. A dirla tutta, proprio per il modo in cui è definita,
 questo tipo di musica difficilmente segue le linee guida dettate dall’industria
 musicale; Paolo Castaldi, intervistato da Luciano Berio nel contesto del
-programma televisivo *C'è Musica & Musica*, dichiarò:
+programma televisivo [*C'è Musica &
+Musica*](https://www.raiplay.it/programmi/cemusicaemusica/), dichiarò:
 
-> [...] la prima [la musica "senza aggettivi"] bisognerebbe che fosse discussa
-> come fatto sociologico, piuttosto che come fatto musicale. A parere di molti,
-> e un po' anche mio, essa non è veramente musica perchè, per definizione,
-> musica è quella che è fatta secondo i gusti di chi la compone, mentre invece
-> la musica commerciale non è fatta secondo i gusti di chi la compone ma
-> secondo i gusti di chi la deve consumare, cosa che è in conflitto con il
-> concetto stesso di composizione.
+> [...] la prima [la musica "leggera"] bisognerebbe che fosse discussa come
+> fatto sociologico, piuttosto che come fatto musicale. A parere di molti, e un
+> po' anche mio, essa non è veramente musica perché, per definizione, musica è
+> quella che è fatta secondo i gusti di chi la compone, mentre invece la musica
+> commerciale non è fatta secondo i gusti di chi la compone ma secondo i gusti
+> di chi la deve consumare, cosa che è in conflitto con il concetto stesso di
+> composizione.
 
 Ma le eccezioni non sono poi così rare.
 
@@ -31,7 +32,7 @@ ricca di sfaccettature, qualcuno direbbe paesaggistica. Alle soglie della
 maturità mi sono allontanato da questo ambiente prevalentemente per una
 fisiologica esigenza di rinnovamento e considerata la deludente scena *prog*
 moderna mi sono buttato a capofitto nel jazz, nella *modern classical*
-(davvero, la gente usa questo termine), nell’*ambient music* e la musica
+(davvero, la gente usa questo termine), nell’*ambient music* e nella musica
 elettronica.
 
 Quando una canzone mi colpisce dal punto di vista armonico, melodico, ritmico e
@@ -59,10 +60,10 @@ LP
 <ol>
     <li id="fn1" class="footnote">
         <em>res severa est verum gaudium</em>, scriveva Seneca. Alcuni posteri,
-        molti anni dopo, pensarono bene di ricordarlo agli spettatori della
-        <em>Gewandhaus</em>, la sala da concerto più famosa di Lipsia, con dei
-        caratteri cubitali stampati all'interno dell'edificio originario nel
-        1781. <a href="#ref1" title="Jump back to footnote 1 in the
+        molti anni dopo, nel 1781, pensarono bene di ricordarlo agli spettatori
+        della <em>Gewandhaus</em>, la sala da concerto più famosa di Lipsia,
+        con dei caratteri cubitali stampati all'interno dell'edificio
+        originario. <a href="#ref1" title="Jump back to footnote 1 in the
         text.">↩</a>
     </li>
 </ol>
