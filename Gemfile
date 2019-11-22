@@ -4,4 +4,5 @@ gem 'jekyll'
 group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-analytics'
+    gem 'jekyll-sitemap'
 end

@@ -7,6 +7,4 @@ preview: img/la-canzone-mononota.jpg
 gumid:   avny
 ---
 
-Coming soon...
-
 <!-- vim: set tw=79 spell spelllang=en: -->

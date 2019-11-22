@@ -7,6 +7,4 @@ preview: img/senza-riguardo.jpg
 gumid:   hzMe
 ---
 
-Coming soon...
-
 <!-- vim: set tw=79 spell spelllang=en: -->

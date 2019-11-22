@@ -7,6 +7,4 @@ preview: img/la-conquista-della-posizione-eretta.jpg
 gumid:   EWQY
 ---
 
-Coming soon...
-
 <!-- vim: set tw=79 spell spelllang=en: -->

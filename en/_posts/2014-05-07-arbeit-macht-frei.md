@@ -7,6 +7,4 @@ preview: img/arbeit-macht-frei.jpg
 gumid:   odJS
 ---
 
-Coming soon...
-
 <!-- vim: set tw=79 spell spelllang=en: -->

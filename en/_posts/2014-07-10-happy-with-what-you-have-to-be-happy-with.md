@@ -7,6 +7,4 @@ preview: img/happy-with-what-you-have-to-be-happy-with.jpg
 gumid:   HWWYH
 ---
 
-Coming soon...
-
 <!-- vim: set tw=79 spell spelllang=en: -->

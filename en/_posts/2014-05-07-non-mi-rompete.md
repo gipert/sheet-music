@@ -7,6 +7,4 @@ preview: img/non-mi-rompete.jpg
 gumid:   rLyn
 ---
 
-Coming soon...
-
 <!-- vim: set tw=79 spell spelllang=en: -->
